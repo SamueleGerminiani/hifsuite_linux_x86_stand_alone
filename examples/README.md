@@ -1,9 +1,10 @@
-#Set up the environment
+### Set up the environment
 ```bash setEnv.sh```
 
-#Run hifsuite
+### Run hifsuite
 ```bash run_hifsuite.sh```
 
+### Simulate 
 This will generate the "injected" directory.
 
 To simulate, you need to:
@@ -13,6 +14,9 @@ To simulate, you need to:
 - Run the following commands to compile the code:
 
 ```mkdir build```
+
 ```cd build```
+
 ```cmake ..```
+
 ```make```
