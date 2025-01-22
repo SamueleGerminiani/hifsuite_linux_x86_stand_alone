@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/build",
+  "command": "/usr/bin/c++  -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/./inc -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/./inc/muffin -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/cpptracer/include -O3 -O3 -DNDEBUG -std=c++1z -Wall -Wextra -Wconversion -pedantic -o CMakeFiles/arb2.dir/src/main.cpp.o -c /home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/main.cpp",
+  "file": "/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/main.cpp"
+},
+{
+  "directory": "/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/build",
+  "command": "/usr/bin/c++  -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/./inc -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/./inc/muffin -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/cpptracer/include -O3 -O3 -DNDEBUG -std=c++1z -Wall -Wextra -Wconversion -pedantic -o CMakeFiles/arb2.dir/src/arb2.cpp.o -c /home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/arb2.cpp",
+  "file": "/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/arb2.cpp"
+},
+{
+  "directory": "/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/build",
+  "command": "/usr/bin/c++  -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/./inc -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/./inc/muffin -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/cpptracer/include -O3 -O3 -DNDEBUG -std=c++1z -Wall -Wextra -Wconversion -pedantic -o CMakeFiles/arb2.dir/src/hif_globals.cpp.o -c /home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/hif_globals.cpp",
+  "file": "/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/hif_globals.cpp"
+},
+{
+  "directory": "/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/build",
+  "command": "/usr/bin/c++  -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/./inc -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/./inc/muffin -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/cpptracer/include -O3 -O3 -DNDEBUG -std=c++1z -Wall -Wextra -Wconversion -pedantic -o CMakeFiles/arb2.dir/src/muffin/muffin_dataTypes.cpp.o -c /home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/muffin/muffin_dataTypes.cpp",
+  "file": "/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/muffin/muffin_dataTypes.cpp"
+},
+{
+  "directory": "/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/build",
+  "command": "/usr/bin/c++  -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/./inc -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/./inc/muffin -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/cpptracer/include -O3 -O3 -DNDEBUG -std=c++1z -Wall -Wextra -Wconversion -pedantic -o CMakeFiles/arb2.dir/src/muffin/FaultNode.cpp.o -c /home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/muffin/FaultNode.cpp",
+  "file": "/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/muffin/FaultNode.cpp"
+},
+{
+  "directory": "/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/build/src/cpptracer",
+  "command": "/usr/bin/c++ -D_USE_MATH_DEFINES -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/./inc -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/./inc/muffin -I/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/cpptracer/include -O3 -O3 -DNDEBUG -std=c++1z -Wall -Wextra -Wconversion -pedantic -o CMakeFiles/cpptracer_test_datatypes.dir/tests/test_datatypes.cpp.o -c /home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/cpptracer/tests/test_datatypes.cpp",
+  "file": "/home/sam/hifsuite_linux_x86_stand_alone/examples/arb2/complete/src/cpptracer/tests/test_datatypes.cpp"
+}
+]

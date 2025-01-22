@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 2.6)
-set(CMAKE_CXX_STANDARD 17)
 
-project(synthetic_case_study_1)
+project(arb2)
 
 # -----------------------------------------------------------------------------
 include_directories(
@@ -22,7 +21,7 @@ add_subdirectory(src/cpptracer)
 add_executable(
     ${PROJECT_NAME}
     ./src/main.cpp
-    ./src/test.cpp
+    ./src/arb2.cpp
     ./src/hif_globals.cpp
     ./src/muffin/muffin_dataTypes.cpp
     ./src/muffin/FaultNode.cpp
